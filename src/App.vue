@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import TileContainer from './components/TileContainer.vue'
-
 var bookmarks = [
     {name: "google", url: "http://google.com"},
     {name: "google", url: "http://google.com"},
@@ -35,7 +34,6 @@ var bookmarks = [
 //         }
 //     }
 // });
-
 </script>
 
 <template>
